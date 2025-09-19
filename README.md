@@ -1,6 +1,5 @@
 # SmartBooking
 
-# 📌 SmartBook 
 
 ## 📝 Proje Hakkında
 
